@@ -23,7 +23,7 @@ const resume = {
     },
     {
       label: 'LinkedIn',
-      link: 'https://www.linkedin.com/in/saurabh-sanap-159871179/'
+      link: 'https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png'
     },
     {
       label: 'Website',
