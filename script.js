@@ -22,8 +22,8 @@ const resume = {
       link: 'https://github.com/Sonooo'
     },
     {
-      label: 'LinkedIn',
-      link: 'https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png'
+      label: 'LinkedIn',   
+      link: 'https://www.linkedin.com/in/saurabh-sanap-159871179/'
     },
     {
       label: 'Website',
@@ -93,7 +93,7 @@ const resume = {
       ]
     },
   ],
-  photo: 'https://media-exp1.licdn.com/dms/image/D4D03AQH9wjsZfuFUeg/profile-displayphoto-shrink_800_800/0/1666614428428?e=1674691200&v=beta&t=FsFVxLv5PdCTQiCmMUsbmEXJ7yJ7mM27F3ydOykMz2A',
+  photo: 'https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png',
 }
 
 const formatResume = (r) => ({
